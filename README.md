@@ -31,4 +31,5 @@ You can find the notebook for cleaning the data and some analysis [here](https:/
 * Tableau
 <br/>
 <img src="https://company.plarium.com/images/press-kits-undersea-solitaire-2.png" alt="drawing" width="200"/>
+
 > Plarium logo
