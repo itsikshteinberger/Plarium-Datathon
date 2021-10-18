@@ -22,7 +22,7 @@ __[Dataset](https://github.com/itsikshteinberger/Plarium-Datathon/blob/master/Pl
 * Deposit_Amount_DX the sum of real money used by players in our game (this is an accumulative number as well)
 <br/><br/>
 ## Results
-The detailed business report can be found [here](https://github.com/itsikshteinberger/Plarium-Datathon/blob/master/Tableau/Report.md).<br/>
+The detailed business report can be found [here](https://github.com/itsikshteinberger/Plarium-Datathon/blob/master/Tableau/Report.pdf).<br/>
 You can find the notebook for cleaning the data and some analysis [here](https://github.com/itsikshteinberger/Plarium-Datathon/blob/master/Datathon.ipynb).
 ## Tools I used
 * Pandas
